@@ -1,0 +1,15 @@
+{
+  "name": "mark-fundamentals-proj--js-cli-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "readline-sync": "^1.4.10"
+  }
+}
